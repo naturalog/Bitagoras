@@ -30,6 +30,7 @@ Funding the project will be done via donations. Please donate Bitcoins to ** in 
 
 To sum it up, the vision of Bitagoras is a world of direct hiring, freedom, efficiency and fairness.
 
+
 Sincerely,
-Ohad Asor
-3 Dec 2014
+
+Ohad Asor 3 Dec 2014
