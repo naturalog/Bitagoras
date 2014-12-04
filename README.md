@@ -26,7 +26,7 @@ In addition, Bitagoras is planned to maintain its own chain. Professionals need 
 
 A final note: This system isn't supposed to be anonymous. Typically, customers will seek people from nearby, that publish their identity.
 
-Funding the project will be done via donations. Please donate Bitcoins to ** in order to bring this into reality. If the system will include creation of a new token, donators will share them.
+Funding the project will be done via donations. Please donate Bitcoins to 12iQ6LNL7wue4C56CmpjXaiTB4ACp5GPRi in order to bring this into reality. If the system will include creation of a new token, donators will share them.
 
 To sum it up, the vision of Bitagoras is a world of direct hiring, freedom, efficiency and fairness.
 
