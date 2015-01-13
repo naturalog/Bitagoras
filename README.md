@@ -14,7 +14,7 @@ Here's how things are going to look from the user's point of view. The client wi
 
 1. Directory. Allowing browsing and searching for professionals offering various services who are registered to the system. Professionals will offer their prices, working times, proffered services, personal details (not a must but important for many markets) and so on.
 
-2. Scheduling. Once Bob has found Alice in the directory, he schedules an appointment. Once Alice accepts the appoinment, Bob (automatically) deposits an initial amount of coins into a multisig address, after Alice signals to him that she will redeem his transaction. In simple words: they initiate the micropayments protocol that is going to happen between them on the time they scheduled. This initiation is fully reversible.
+2. Scheduling. Once Bob has found Alice in the directory, he schedules an appointment. Once Alice accepts the appoinment, Bob (automatically) deposits an initial amount of coins into a multisig address, after Alice provides him with a refund form, just in case the service is not provided. In simple words: they initiate the micropayments protocol that is going to happen between them on the time they scheduled. This initiation is fully reversible.
 
 3. When time comes, a video conversation is initiated. Once it begins and only then, charging begins. 
 
